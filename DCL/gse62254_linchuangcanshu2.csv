@@ -1,0 +1,301 @@
+﻿id,geo_accession,MLH1.IHC,sex,age,EBV,WHO.1.w.d.adeno.2.m.d.adeno.3.p.d.adeno.4.signet.ring.5..mucinous.6.papillary.adeno.7.adenosquamous.8.undifferentiated.ca.9.hepatoid.adenoca.10.tubular.adenoca.11.others..text.,Perineural.Invasion,VENOUS.INVASION.,lymphatic..lymphovascular.inv.,T,N,M,pStage,Lauren,Code_site,documented.recurrence.,liver,peritoneal.seeding,ascites,intraabdominal_LN,distant.lymph.node,bone,other,description,FU.status0.无复发存活1.复发但存活..2.未复发死亡.3.复发死亡..4.死因未明的死亡..5..删失,H..pylori.0.No.1.Yes.blank...H.pylori.not.checked,DFS..months.,OS..months.,Mol..Subtype..0.MSS.TP53...1.MSS.TP53...2...MSI..3..EMT
+5,GSM1523727,negative,M,67,0,2,0,0,0,2,1,0,II,intestinal,body,2,0,0,0,0,0,0,0,,0,NA,3.97,88.73,2
+6,GSM1523728,positive,F,68,NA,3,0,NA,0,2,1,0,II,intestinal,body,2,0,0,0,0,0,0,0,,0,NA,4.03,88.23,2
+7,GSM1523729,positive,F,42,0,3,0,NA,0,2,1,0,II,diffuse,antrum,0,0,0,0,0,0,0,0,,0,0,74.97,88.23,1
+46,GSM1523744,Negative,M,69,0,3,NA,NA,NA,2,1,0,II,diffuse,antrum,0,0,0,0,0,0,0,0,,0,1,89.77,105.7,2
+47,GSM1523745,positive,M,68,0,3,NA,NA,1,3,2,0,III,diffuse,antrum,0,0,0,0,0,0,0,0,,0,NA,84.6,105.53,0
+48,GSM1523746,positive,M,56,0,3,NA,NA,1,2,1,0,II,mixed,antrum,1,1,0,0,1,0,0,0,,3,0,5.77,25.5,0
+49,GSM1523747,positive,M,60,0,3,NA,NA,1,2,2,0,III,mixed,antrum,1,1,0,0,1,0,0,1,"distal esophagus and remnant stomach, splenic hilum, Lt. adrenal gland, Lt. subphrenic area, mesentery",3,NA,6.37,8.7,1
+50,GSM1523748,positive,F,68,0,3,1,NA,1,3,1,0,III,diffuse,antrum,0,0,0,0,0,0,0,0,,0,NA,81.37,104.93,1
+87,GSM1523765,negative,F,52,0,2,1,NA,1,3,2,0,III,diffuse,body,1,0,0,0,1,0,0,0,,3,NA,9.6,14.2,0
+94,GSM1523768,positive,M,52,0,2,1,NA,1,2,2,0,III,intestinal,body,1,0,1,0,0,0,0,1,Lt. abdominal rectus muscle,3,0,9.4,24.23,0
+97,GSM1523769,positive,F,71,0,4,1,NA,1,3,3,0,IV,diffuse,antrum,1,0,1,1,0,0,0,1,Periureteral,3,NA,9.8,13.73,0
+98,GSM1523770,negative,M,63,0,3,NA,NA,NA,2,1,0,II,intestinal,body,0,0,0,0,0,0,0,0,,4,0,12.23,22.07,2
+99,GSM1523771,positive,F,62,0,3,0,NA,1,4,2,1,IV,diffuse,antrum,1,0,1,0,0,0,0,1,"anastomotic site of T-colon, periureteral, mid-ascending colonic wall",3,0,8.93,12.67,3
+101,GSM1523772,positive,F,58,0,3,NA,NA,NA,3,1,1,IV,diffuse,antrum,1,0,1,1,0,0,0,1,"Gastrojejunostomy site, anastomotic site",3,NA,5.8,10.03,3
+102,GSM1523773,positive,F,75,0,4,NA,NA,1,3,3,0,IV,diffuse,body,1,0,1,1,0,0,0,1,"proximal ureter, mesentery",3,NA,2.8,4.33,3
+103,GSM1523774,positive,M,56,0,2,NA,NA,1,2,2,0,III,intestinal,antrum,0,0,0,0,0,0,0,0,,0,0,67.07,97.7,3
+104,GSM1523775,negative,F,77,0,3,NA,NA,0,2,1,0,II,diffuse,antrum,0,0,0,0,0,0,0,0,,0,NA,95.23,97.6,2
+105,GSM1523776,Negative,M,48,0,3,NA,NA,1,2,1,0,II,diffuse,antrum,0,0,0,0,0,0,0,0,,0,NA,97.2,97.47,2
+120,GSM1523777,positive,M,60,0,2,0,NA,0,2,3,0,IV,intestinal,antrum,0,0,0,0,0,0,0,0,,0,0,62.2,92.93,0
+121,GSM1523778,positive,F,56,0,4,0,NA,1,3,2,0,III,diffuse,body,0,0,0,0,0,0,0,0,,0,NA,11.7,92.63,0
+122,GSM1523779,negative,F,77,0,3,0,NA,1,3,2,0,III,diffuse,antrum,0,0,0,0,0,0,0,0,,0,0,74.2,92.6,2
+123,GSM1523780,Negative,F,84,0,2,0,NA,0,4,1,0,IV,intestinal,antrum,1,1,0,0,1,0,0,0,,3,NA,2.63,16.4,2
+124,GSM1523781,positive,F,37,0,2,1,NA,1,2,3,0,IV,intestinal,antrum,0,0,0,0,0,0,0,0,,2,NA,2.23,2.93,0
+125,GSM1523782,positive,M,63,0,5,0,NA,1,2,3,0,IV,intestinal,antrum,1,0,0,0,1,0,0,0,,3,NA,0.4,4.4,1
+126,GSM1523783,positive,F,55,0,5,0,1,1,2,2,0,III,diffuse,body,0,0,0,0,0,0,0,0,,0,NA,89.1,91.93,1
+127,GSM1523784,positive,F,44,NA,3,0,NA,0,2,2,0,III,diffuse,body,0,0,0,0,0,0,0,0,,0,NA,84.3,91.3,0
+128,GSM1523785,positive,F,60,NA,3,0,0,1,2,1,0,II,intestinal,antrum,0,0,0,0,0,0,0,0,,4,NA,8.9,11.77,2
+130,GSM1523786,positive,F,44,0,3,1,0,1,2,3,1,IV,diffuse,whole,0,0,0,0,0,0,0,0,,2,1,23.53,28.47,1
+131,GSM1523787,positive,F,57,0,2,0,1,0,2,3,0,IV,intestinal,body,0,0,0,0,0,0,0,0,,0,NA,84.43,89.63,1
+132,GSM1523788,positive,F,42,0,4,NA,NA,1,2,3,1,IV,diffuse,body,1,0,0,0,0,0,1,1,Breast,3,NA,7.67,8.27,3
+133,GSM1523789,positive,M,69,0,4,0,0,1,2,3,1,IV,diffuse,antrum,1,0,1,1,1,0,0,1,ileocolic anastomotic site,3,0,8.43,11.8,0
+134,GSM1523790,negative,M,62,0,2,0,0,0,2,1,0,II,intestinal,body,1,1,0,0,0,0,0,0,,1,NA,57.27,80.93,2
+135,GSM1523791,negative,M,60,0,2,0,0,0,2,0,0,I,intestinal,antrum,0,0,0,0,0,0,0,0,,0,0,58.7,81.13,2
+136,GSM1523792,positive,M,55,0,1,0,0,0,2,0,0,I,intestinal,antrum,0,0,0,0,0,0,0,0,,0,NA,59.83,80.8,0
+138,GSM1523793,positive,F,82,0,"3, 11(neuroendocrine differentiation)",0,0,1,2,1,0,II,diffuse,body,0,0,0,0,0,0,0,0,,0,NA,12.57,80.73,1
+139,GSM1523794,positive,M,67,0,3,0,0,1,2,3,0,IV,diffuse,cardia,1,1,1,0,1,0,0,1,"anastomotic site, both lungs, omental",3,NA,0.63,27,2
+140,GSM1523795,positive,M,70,0,2,0,0,0,2,0,0,I,intestinal,antrum,0,0,0,0,0,0,0,0,,0,NA,49.07,80.07,1
+142,GSM1523796,positive,M,53,0,2,0,0,0,3,1,0,III,intestinal,body,1,0,1,1,0,0,0,1,"proximal jejunum, Lt. inguinal",3,NA,49.87,57.63,3
+144,GSM1523797,positive,M,63,0,2,0,1,1,3,2,0,III,intestinal,antrum,1,0,0,0,1,0,0,1,lung,3,NA,24.5,28.27,2
+145,GSM1523798,positive,M,84,1,3,1,0,0,2,1,0,II,diffuse,body,0,0,0,0,0,0,0,0,,4,NA,28.07,61.83,3
+146,GSM1523799,positive,M,81,NA,8,0,0,1,2,1,0,II,intestinal,body,0,0,0,0,0,0,0,0,,0,0,3.1,77.5,1
+147,GSM1523800,negative,M,73,0,2,0,0,0,2,2,0,III,intestinal,body,0,0,0,0,0,0,0,0,,0,NA,48.67,76.93,2
+148,GSM1523801,negative,M,74,NA,2,0,0,1,2,1,0,II,indeterminate,antrum,0,0,0,0,0,0,0,0,,0,1,60.63,76.93,2
+149,GSM1523802,positive,F,70,0,3,0,0,0,2,1,0,II,intestinal,antrum,2,0,0,0,0,0,0,0,,0,NA,1.2,76.77,0
+150,GSM1523803,Negative,F,72,NA,8,1,1,1,3,3,0,IV,indeterminate,cardia,0,0,0,0,0,0,0,0,,2,NA,0.63,7.07,1
+151,GSM1523804,positive,F,37,0,5,1,1,1,3,1,0,III,diffuse,antrum,0,0,0,0,0,0,0,0,,0,1,60.07,76.7,1
+153,GSM1523805,positive,F,72,0,3,0,0,1,3,2,0,III,mixed,body,0,0,0,0,0,0,0,0,,2,NA,2.97,4.47,2
+154,GSM1523806,positive,M,68,0,2,1,0,1,3,2,0,III,intestinal,body,1,1,0,0,0,0,0,0,,3,0,0.53,12.7,0
+156,GSM1523807,positive,F,70,NA,1,0,0,1,2,1,0,II,intestinal,antrum,0,0,0,0,0,0,0,0,,0,NA,71.67,73.73,0
+157,GSM1523808,positive,M,56,0,3,0,0,0,3,1,0,III,diffuse,antrum,0,0,0,0,0,0,0,0,,0,NA,72.5,73.5,2
+158,GSM1523809,positive,M,77,NA,2,0,0,1,2,1,0,II,intestinal,antrum,0,0,0,0,0,0,0,0,,0,NA,11.53,73.43,1
+159,GSM1523810,Negative,M,66,0,3,0,0,1,2,0,0,I,intestinal,antrum,2,0,0,0,0,0,0,0,,0,NA,0.73,73.07,2
+160,GSM1523811,negative,F,80,0,3,0,0,0,2,0,0,I,intestinal,antrum,0,0,0,0,0,0,0,0,,0,NA,4.8,72.87,2
+162,GSM1523812,positive,M,62,1,3,0,0,0,3,1,0,III,diffuse,body,0,0,0,0,0,0,0,0,,0,NA,59,72.83,1
+163,GSM1523813,negative,M,70,0,4,0,0,1,3,1,0,III,diffuse,antrum,0,0,0,0,0,0,0,0,,0,0,59.37,72.83,2
+164,GSM1523814,positive,M,68,0,9,0,0,1,2,1,0,II,intestinal,body,0,0,0,0,0,0,0,0,,0,1,59.47,72.73,1
+166,GSM1523815,positive,M,64,0,11(composite adenoca and neuroendocrine ca),0,0,1,2,2,0,III,mixed,antrum,1,0,0,0,1,0,0,1,"Esophagojejunostomy site, proximal jejunum, portocaval space",3,NA,18.77,25.17,0
+167,GSM1523816,positive,M,66,NA,2,1,0,0,2,1,0,II,intestinal,cardia,0,0,0,0,0,0,0,0,,0,NA,36.53,72.07,0
+168,GSM1523817,positive,M,73,0,3,0,1,1,3,3,0,IV,diffuse,body,1,1,1,1,1,0,0,1,"Spleen, Abdominal wall, pancreas",3,NA,5.83,6.23,0
+169,GSM1523818,positive,F,66,0,3,0,0,1,3,3,0,IV,diffuse,body,1,0,1,0,1,1,1,1,"GB, both ovary, Common duct, Lt. adrenal gland, Pleural seeding",3,0,7.87,9.83,1
+170,GSM1523819,positive,F,77,0,2,1,0,1,4,1,0,IV,intestinal,cardia,0,0,0,0,0,0,0,0,,2,NA,8.1,10.1,1
+172,GSM1523820,positive,M,64,0,2,1,0,1,3,1,0,III,intestinal,cardia,2,0,0,0,0,0,0,0,,4,NA,0.77,23.7,1
+173,GSM1523821,Negative,M,64,0,2,0,0,1,4,1,0,IV,intestinal,body,0,0,0,0,0,0,0,0,,0,NA,63.83,71.1,2
+174,GSM1523822,Negative,M,66,0,2,0,0,1,2,0,0,I,intestinal,antrum,0,0,0,0,0,0,0,0,,0,1,59.7,70.97,2
+175,GSM1523823,negative,F,64,0,2,0,1,1,2,2,0,III,intestinal,antrum,0,0,0,0,0,0,0,0,,0,0,59.2,70.9,2
+176,GSM1523824,positive,M,64,0,2,0,1,1,2,1,0,II,intestinal,body,0,0,0,0,0,0,0,0,,0,0,70.27,70.67,0
+177,GSM1523825,Negative,M,69,0,3,0,1,1,3,2,0,III,intestinal,antrum,1,0,0,0,0,0,0,1,abdominal,3,NA,2.83,4,2
+178,GSM1523826,positive,M,74,0,3,1,1,1,3,1,0,III,intestinal,antrum,0,0,0,0,0,0,0,0,,2,NA,1.83,2.7,0
+179,GSM1523827,positive,F,36,NA,5,0,1,1,3,1,0,III,diffuse,body,0,0,0,0,0,0,0,0,,0,NA,69.53,70.03,0
+180,GSM1523828,positive,M,72,0,"6,2",0,1,1,3,3,0,IV,intestinal,antrum,1,0,0,0,1,0,0,0,,3,NA,1.37,5.87,2
+181,GSM1523829,positive,M,68,0,1,0,0,0,2,0,0,II,intestinal,antrum,0,0,0,0,0,0,0,0,,0,NA,47.43,69.83,0
+182,GSM1523830,Negative,M,59,NA,2,0,0,1,2,1,0,II,intestinal,antrum,1,1,0,0,0,0,0,0,,3,0,32.43,53.43,2
+183,GSM1523831,positive,M,68,0,3,0,1,1,2,1,1,IV,diffuse,antrum,1,1,1,1,1,0,0,1,lung,3,NA,0.1,30.9,1
+184,GSM1523832,positive,M,62,0,3,1,1,1,2,2,0,III,intestinal,body,1,1,0,0,1,0,0,0,,3,NA,6.7,17.67,1
+185,GSM1523833,Negative,M,65,0,4,1,0,1,3,3,0,IV,diffuse,antrum,1,0,1,1,1,0,0,1,GB,3,NA,8.03,8.87,2
+186,GSM1523834,positive,F,66,NA,4,1,0,1,3,1,0,III,diffuse,body,1,0,1,0,0,0,0,1,"LLQ iliac bifurcation, pelvic cavity, transverse colon, mesentery",3,1,18.2,44.57,1
+187,GSM1523835,positive,M,54,0,2,0,0,1,2,1,0,II,intestinal,body,0,0,0,0,0,0,0,0,,0,0,59.03,69.3,3
+188,GSM1523836,positive,M,56,0,2,0,0,0,3,1,0,III,intestinal,body,0,0,0,0,0,0,0,0,,0,0,59.97,69.23,1
+189,GSM1523837,positive,M,70,0,2,1,0,0,2,0,0,I,intestinal,body,2,0,0,0,0,0,0,0,,4,0,3,26.83,0
+190,GSM1523838,negative,M,65,0,2,0,0,1,3,2,0,III,intestinal,antrum,0,0,0,0,0,0,0,0,,2,0,9.7,10.33,2
+191,GSM1523839,positive,M,57,0,5,0,0,1,3,2,0,III,diffuse,body,0,0,0,0,0,0,0,0,,0,0,68.2,69.13,0
+192,GSM1523840,positive,M,78,0,11,0,1,1,2,1,0,II,diffuse,cardia,1,1,0,0,0,0,0,1,lung,3,0,5.67,22.83,1
+193,GSM1523841,positive,M,65,1,3,1,0,0,2,1,0,II,mixed,body,1,1,0,1,0,0,0,0,,3,NA,17.27,42.07,1
+194,GSM1523842,positive,M,70,0,3,1,0,1,2,1,0,II,diffuse,antrum,0,0,0,0,0,0,0,0,,2,1,46.2,48.73,0
+195,GSM1523843,positive,F,65,0,3,1,0,1,4,2,1,IV,diffuse,antrum,1,0,0,0,0,0,0,1,"periureteral, Rt. Adnexa, colon",3,NA,10.83,25.87,0
+197,GSM1523844,positive,M,54,0,3,1,0,1,3,2,0,III,intestinal,antrum,1,0,0,0,1,0,0,0,,0,1,34.67,68.9,3
+198,GSM1523845,positive,F,77,0,8,0,1,1,3,3,0,IV,diffuse,antrum,0,0,0,0,0,0,0,0,,2,NA,6.1,9.67,1
+199,GSM1523846,positive,M,63,1,3,0,0,1,2,2,0,III,diffuse,cardia,0,0,0,0,0,0,0,0,,0,NA,43.8,68.37,3
+200,GSM1523847,negative,F,31,0,8,0,0,0,2,1,0,II,intestinal,antrum,0,0,0,0,0,0,0,0,,0,NA,58.8,68.13,2
+201,GSM1523848,positive,M,68,1,8,0,0,1,3,1,0,III,diffuse,body,0,0,0,0,0,0,0,0,,0,NA,49.03,68.13,3
+202,GSM1523849,positive,M,65,0,2,0,1,1,3,1,0,III,intestinal,antrum,1,1,0,0,1,0,0,0,,3,1,0.53,28.03,3
+203,GSM1523850,positive,M,38,0,4,1,0,1,4,2,0,IV,diffuse,body,1,0,1,1,0,0,0,1,"rectum, proximal ascending colon, jejunal loop, terminal ileum, Small bowel, gallbladder, periureteral, CBD, lung",3,NA,10.03,36.4,3
+204,GSM1523851,negative,F,77,0,2,0,0,1,2,0,0,I,intestinal,antrum,0,0,0,0,0,0,0,0,,0,NA,9.17,67.23,2
+205,GSM1523852,positive,M,55,0,2,1,0,1,3,1,0,III,intestinal,antrum,0,0,0,0,0,0,0,0,,2,1,27.8,31,0
+207,GSM1523853,positive,M,68,0,2,0,1,1,2,0,0,I,intestinal,antrum,2,0,0,0,0,0,0,0,,0,NA,1.83,66.73,0
+208,GSM1523854,Negative,M,69,0,5,0,0,1,2,1,0,II,diffuse,antrum,0,0,0,0,0,0,0,0,,0,0,58.87,66.73,0
+209,GSM1523855,positive,M,77,0,2,0,1,1,2,2,0,III,intestinal,body,1,1,0,0,1,0,0,0,,3,0,12.13,21.93,0
+210,GSM1523856,negative,F,51,0,7,0,0,0,2,1,0,II,diffuse,antrum,0,0,0,0,0,0,0,0,,0,NA,65.47,66.2,2
+211,GSM1523857,positive,F,75,0,2,0,1,1,3,2,0,III,intestinal,antrum,1,1,0,0,0,0,0,0,,3,0,5.9,14.43,0
+212,GSM1523858,positive,F,42,0,4,1,0,0,2,0,0,I,diffuse,whole,1,0,1,0,0,0,0,1,periureteral,3,NA,5.93,17.1,3
+213,GSM1523859,positive,M,67,0,2,0,1,1,2,1,0,II,intestinal,body,0,0,0,0,0,0,0,0,,0,NA,50.03,53.13,1
+214,GSM1523860,negative,M,66,0,3,0,0,1,2,0,0,I,mixed,antrum,2,0,0,0,0,0,0,0,,4,1,0.73,42.2,2
+215,GSM1523861,partial loss,M,64,0,2,0,0,0,2,0,0,I,intestinal,body,0,0,0,0,0,0,0,0,,0,0,59.37,64.8,1
+216,GSM1523862,positive,M,41,0,4,1,0,1,3,3,0,IV,diffuse,body,1,0,1,1,0,0,0,1,transverse colon,3,NA,11.33,21,3
+218,GSM1523863,negative,F,64,0,3,0,0,1,2,0,0,I,mixed,antrum,0,0,0,0,0,0,0,0,,0,NA,59.83,64.57,2
+220,GSM1523864,Negative,M,52,0,2,0,1,0,2,0,0,I,intestinal,body,0,0,0,0,0,0,0,0,,0,NA,60.2,63.97,2
+221,GSM1523865,positive,M,70,0,2,1,1,1,2,1,0,II,intestinal,body,1,0,0,0,0,0,0,1,anastomosis site,0,NA,24.8,63.7,0
+222,GSM1523866,positive,F,86,0,3,1,1,1,3,2,1,IV,intestinal,antrum,0,0,0,0,0,0,0,0,,2,1,3.9,4.37,3
+223,GSM1523867,positive,M,54,0,2,0,0,1,2,2,0,III,intestinal,antrum,1,0,0,0,1,0,0,1,Brain,3,1,9.7,33.27,2
+225,GSM1523868,Negative,M,62,0,3,1,0,1,3,2,0,III,mixed,antrum,1,0,0,0,0,1,0,0,,1,NA,3.3,63.27,2
+226,GSM1523869,positive,F,67,0,3,0,0,1,2,1,0,II,diffuse,body,0,0,0,0,0,0,0,0,,0,1,14.1,62.53,1
+227,GSM1523870,Negative,M,75,0,2,0,0,1,2,1,0,II,intestinal,antrum,0,0,0,0,0,0,0,0,,0,NA,59.17,62.47,2
+228,GSM1523871,Negative,F,70,0,2,1,0,1,2,1,0,II,intestinal,antrum,0,0,0,0,0,0,0,0,,0,0,21.77,62.37,2
+229,GSM1523872,positive,F,61,NA,3,1,0,1,4,3,1,IV,diffuse,body,1,0,1,0,0,0,0,1,Rt. ureterovesical junction,3,NA,13.6,15.03,0
+230,GSM1523873,positive,M,57,1,8,0,0,1,2,2,1,IV,diffuse,cardia,1,1,0,0,1,0,0,0,,3,1,0.6,24.03,1
+232,GSM1523874,positive,F,72,0,2,1,0,1,2,0,0,I,intestinal,antrum,0,0,0,0,0,0,0,0,,0,1,59.83,62.1,0
+233,GSM1523875,positive,M,79,0,2,0,0,1,2,1,0,II,intestinal,body,1,1,0,0,0,0,0,0,,3,0,6.23,8.47,1
+234,GSM1523876,Negative,M,76,0,2,1,0,0,2,0,0,I,intestinal,antrum,0,0,0,0,0,0,0,0,,0,1,58.7,61.9,2
+235,GSM1523877,Negative,M,65,0,2,0,1,1,2,2,0,III,intestinal,body,1,0,0,0,1,0,0,1,lung,3,1,4.13,13.1,0
+236,GSM1523878,positive,M,56,1,2,0,1,1,2,1,0,II,intestinal,cardia,0,0,0,0,0,0,0,0,,0,0,59.7,61.87,1
+237,GSM1523879,positive,M,63,0,2,0,1,1,3,3,0,IV,intestinal,body,0,0,0,0,0,0,0,0,,0,0,0.67,61.17,0
+238,GSM1523880,negative,F,54,0,8,0,0,1,2,0,0,I,diffuse,body,0,0,0,0,0,0,0,0,,0,1,54.97,60.97,2
+240,GSM1523881,positive,M,74,0,6,1,1,1,2,2,0,III,intestinal,cardia,1,1,0,0,0,0,0,0,,3,0,13.73,14.9,1
+241,GSM1523882,positive,M,36,1,3,1,0,1,2,2,0,III,diffuse,body,0,0,0,0,0,0,0,0,,0,NA,59.7,60.7,1
+242,GSM1523883,positive,M,77,0,3,1,0,1,2,1,0,II,①diffuse/ ②diffuse/ ③intestinal,antrum,1,0,0,0,1,0,0,0,,3,0,30.03,39.53,1
+243,GSM1523884,positive,M,50,0,3,1,0,1,3,1,0,III,diffuse,body,0,0,0,0,0,0,0,0,,0,NA,3.07,60.43,1
+245,GSM1523885,negative,F,53,0,3,0,0,1,2,0,0,I,diffuse,antrum,0,0,0,0,0,0,0,0,,0,0,59.97,60.23,2
+246,GSM1523886,positive,M,49,0,4,1,1,1,3,3,0,IV,diffuse,body,1,0,0,1,0,0,0,1,"lung, omental seeding",3,1,3.97,5.6,3
+247,GSM1523887,positive,M,46,0,3,1,0,1,2,0,0,I,diffuse,antrum,0,0,0,0,0,0,0,0,,0,0,59.43,60.2,0
+248,GSM1523888,Negative,M,52,0,3,0,0,1,2,0,0,I,intestinal,antrum,0,0,0,0,0,0,0,0,,0,NA,59.83,59.9,2
+249,GSM1523889,positive,M,74,0,6,0,1,0,2,0,0,I,intestinal,cardia,0,0,0,0,0,0,0,0,,0,0,55.3,59.67,2
+251,GSM1523890,positive,F,33,0,3,1,0,1,3,2,0,III,diffuse,cardia,1,0,1,0,0,0,0,1,"distal transverse colon and descending colon, periureteral, CBD and GB",1,1,57.2,59.57,0
+252,GSM1523891,positive,F,53,0,5,0,0,1,2,0,0,I,intestinal,antrum,0,0,0,0,0,0,0,0,,0,1,48.63,59.57,0
+253,GSM1523892,positive,M,59,0,2,1,0,1,2,0,0,I,intestinal,antrum,0,0,0,0,0,0,0,0,,0,1,47.5,59.47,0
+254,GSM1523893,positive,M,74,0,6,0,0,0,2,0,0,I,intestinal,body,1,1,0,0,0,0,0,1,lung,3,NA,3.97,20.1,0
+255,GSM1523894,positive,M,56,0,2,1,0,0,2,0,0,I,intestinal,body,1,1,0,0,1,0,0,0,,3,1,18.63,35.77,1
+256,GSM1523895,positive,M,66,0,2,0,0,0,2,0,0,I,intestinal,antrum,0,0,0,0,0,0,0,0,,0,1,49.03,59.03,0
+257,GSM1523896,positive,M,51,1,2,1,0,1,2,1,0,II,intestinal,body,1,0,1,1,1,0,0,1,"anastomotic site, distal esophagus, Lt. adrenal gland",3,1,18.3,28.03,1
+259,GSM1523897,positive,F,78,0,2,0,0,0,2,0,0,I,intestinal,antrum,0,0,0,0,0,0,0,0,,0,0,57.5,58.87,0
+260,GSM1523898,positive,M,60,0,2,0,0,0,2,0,0,I,intestinal,antrum,0,0,0,0,0,0,0,0,,0,1,49.57,58.83,1
+261,GSM1523899,Negative,F,60,0,6,0,0,1,2,1,0,II,intestinal,cardia,0,0,0,0,0,0,0,0,,0,1,57.1,58.07,1
+263,GSM1523901,negative,F,65,0,3,0,0,0,2,0,0,I,intestinal,antrum,0,0,0,0,0,0,0,0,,0,0,53.57,57.47,2
+265,GSM1523903,positive,M,60,NA,2,0,0,1,4,0,0,III,intestinal,body,1,0,0,0,0,0,0,1,kidney,3,NA,38.43,39.8,2
+266,GSM1523904,positive,M,56,0,6,1,1,1,2,3,0,IV,intestinal,cardia,1,0,0,0,0,1,1,0,,1,NA,42.37,55.37,0
+267,GSM1523905,positive,M,66,0,4,0,0,1,2,1,0,II,diffuse,antrum,0,0,0,0,0,0,0,0,,0,NA,44.4,55.3,0
+268,GSM1523906,positive,M,53,NA,11(lymphoepithelioma-like carcinoma),0,0,0,2,0,0,I,diffuse,body,0,0,0,0,0,0,0,0,,0,NA,46.03,55.3,3
+269,GSM1523908,positive,F,44,0,3,0,0,1,4,3,0,IV,diffuse,body,0,0,0,0,0,0,0,0,,0,1,48.97,55.07,0
+270,GSM1523909,negative,M,74,0,3,1,0,1,2,1,0,II,diffuse,antrum,0,0,0,0,0,0,0,0,,0,1,49.33,54.53,2
+271,GSM1523910,negative,M,53,0,3,1,1,1,3,1,0,III,diffuse,antrum,0,0,0,0,0,0,0,0,,0,1,48.5,54.33,2
+273,GSM1523911,positive,F,72,0,2,1,1,1,3,3,0,IV,intestinal,antrum,1,1,1,0,1,0,0,1,"Rectum, Lt. adrenal gland",3,1,6.97,21.83,2
+76,GSM1523918,positive,M,62,0,5,1,NA,1,3,2,0,III,diffuse,antrum,1,1,1,1,0,0,0,0,,3,0,25.9,28.13,3
+2,GSM1523919,positive,M,64,0,3,1,0,1,4,1,0,IV,intestinal,body,0,0,0,0,0,0,0,0,,0,0,78.2,84.1,1
+3,GSM1523920,positive,M,44,0,2,1,0,0,3,0,0,II,intestinal,body,1,0,1,1,1,0,0,1,"Sigmoid colon, proximal jejunum, ileum",3,NA,3.23,9.33,0
+4,GSM1523921,positive,M,42,0,3,0,0,0,2,1,0,II,diffuse,antrum,0,0,0,0,0,0,0,0,,0,NA,61,83.3,2
+9,GSM1523922,positive,M,65,0,2,0,NA,0,2,1,0,II,intestinal,body,1,1,0,0,0,0,0,0,Lung,3,NA,16.57,23.6,0
+10,GSM1523923,positive,M,59,0,3,0,0,1,2,1,0,II,diffuse,whole,1,0,0,1,1,1,0,1,Anastomotic site,3,1,11.7,26.4,1
+11,GSM1523924,positive,M,52,0,3,0,0,0,2,1,0,II,diffuse,body,0,0,0,0,0,0,0,0,,0,0,73.53,82.2,0
+12,GSM1523925,positive,F,59,0,3,0,NA,1,2,1,0,II,diffuse,antrum,1,1,0,0,0,0,0,0,,3,NA,4.37,6.3,0
+13,GSM1523926,positive,M,69,0,①2/ ②1/ ③1,0,0,0,①2/ ②1/ ③1,1,0,①II/ ②I/ ③I,intestinal,cardia,0,0,0,0,0,0,0,0,,0,NA,61.13,69.03,1
+14,GSM1523927,positive,M,46,0,3,1,1,0,2,1,0,II,diffuse,body,0,0,0,0,0,0,0,0,,0,NA,80.77,80.77,1
+15,GSM1523928,positive,M,69,0,6,0,NA,0,2,1,0,II,intestinal,cardia,0,0,0,0,0,0,0,0,,4,NA,17.93,54.13,0
+8,GSM1523929,negative,F,67,0,3,NA,NA,NA,2,2,0,III,intestinal,antrum,0,0,0,0,0,0,0,0,,0,NA,60.23,88.33,2
+17,GSM1523930,positive,M,51,0,1,0,0,0,2,1,0,II,intestinal,antrum,0,0,0,0,0,0,0,0,,0,0,61.17,78.53,0
+18,GSM1523931,positive,F,61,1,3,0,0,1,2,1,0,II,diffuse,antrum,0,0,0,0,0,0,0,0,,0,1,71.93,77.6,1
+19,GSM1523932,positive,F,66,NA,2,0,0,1,2,1,0,II,intestinal,antrum,1,0,0,0,0,0,0,0,unknown,3,NA,0.8,12.67,0
+20,GSM1523933,Negative,M,74,0,3,1,1,1,2,1,0,II,diffuse,antrum,0,0,0,0,0,0,0,0,,0,0,69.53,75.27,2
+16,GSM1523934,positive,M,70,0,2,0,NA,1,3,3,0,IV,intestinal,body,1,0,1,0,0,0,0,1,rectal,3,NA,11.63,12.8,0
+21,GSM1523935,positive,M,64,0,4,1,NA,1,3,0,0,II,diffuse,antrum,0,0,0,0,0,0,0,0,,0,NA,85.27,87.4,3
+22,GSM1523936,positive,M,70,0,4,1,NA,0,2,1,0,II,diffuse,antrum,1,0,1,1,0,0,0,0,Anastomotic site,3,0,10.83,17.57,1
+23,GSM1523937,positive,M,81,NA,2,0,0,1,2,1,0,II,intestinal,antrum,1,0,0,0,0,0,0,1,mid-ureter,3,NA,9.77,19.67,1
+24,GSM1523938,positive,F,53,0,3,1,1,1,3,3,0,IV,diffuse,body,1,0,1,1,1,0,0,0,,3,NA,0.7,5.77,3
+25,GSM1523939,positive,F,28,0,3,1,0,1,3,3,0,IV,diffuse,body,1,0,1,1,0,0,0,0,,3,NA,7.93,11.23,3
+26,GSM1523940,positive,M,69,0,2,1,1,1,3,3,0,IV,intestinal,antrum,1,0,0,0,1,0,0,0,renal mass,3,NA,13.87,20.03,0
+27,GSM1523941,positive,M,70,1,3,1,1,1,2,3,0,IV,diffuse,body,1,0,0,0,1,0,0,0,,3,NA,0.6,4.53,0
+28,GSM1523942,Positive,M,70,0,①2/ ②1,0,0,0,①2/ ②1,2,0,①III/ ②II,intestinal,antrum,0,0,0,0,0,0,0,0,,0,1,69.57,70.27,0
+30,GSM1523943,positive,F,72,0,3,NA,NA,1,3,2,1,IV,diffuse,cardia,1,0,1,1,1,0,0,0,,3,NA,2.93,5.53,0
+31,GSM1523944,positive,M,71,0,8,0,0,0,2,2,0,III,diffuse,antrum,0,0,0,0,0,0,0,0,,0,NA,11.5,69.63,1
+32,GSM1523945,negative,M,53,0,4,1,0,1,4,3,0,IV,diffuse,whole,1,0,1,1,0,0,0,0,,3,NA,15.27,17.53,3
+33,GSM1523946,positive,M,50,0,2,0,0,1,2,2,0,III,intestinal,antrum,0,0,0,0,0,0,0,0,,0,NA,3.7,68.93,1
+34,GSM1523947,Negative,F,74,0,2,0,0,1,3,0,0,II,intestinal,antrum,0,0,0,0,0,0,0,0,,0,NA,64.23,68.43,2
+35,GSM1523948,positive,M,52,0,3,1,1,1,3,3,0,IV,diffuse,body,1,0,1,1,0,0,0,0,,3,NA,15.33,27.47,3
+36,GSM1523949,positive,F,51,0,3,1,1,1,3,2,1,IV,diffuse,body,1,0,1,1,0,0,0,0,,3,NA,3.23,10.1,3
+37,GSM1523950,positive,M,57,0,2,0,0,1,2,3,0,IV,intestinal,antrum,0,0,0,0,0,0,0,0,,0,0,58.83,68.2,0
+29,GSM1523951,positive,M,66,1,3,0,NA,1,4,2,1,IV,diffuse,cardia,1,0,0,1,0,0,0,0,,3,NA,36.5,53.03,1
+38,GSM1523952,Negative,F,54,0,3,NA,NA,0,2,1,0,II,diffuse,antrum,0,0,0,0,0,0,0,0,,0,NA,100.87,100.87,2
+39,GSM1523953,positive,M,70,NA,3,NA,NA,1,2,2,0,III,diffuse,antrum,0,0,0,0,0,0,0,0,,0,1,84.77,84.77,0
+40,GSM1523954,positive,M,62,0,3,NA,NA,1,2,1,0,II,diffuse,antrum,0,0,0,0,0,0,0,0,,0,NA,60.23,100.87,0
+41,GSM1523955,positive,M,49,0,2,1,NA,1,2,2,0,III,mixed,body,1,0,1,1,0,0,0,0,,3,NA,31.4,34.37,1
+42,GSM1523956,positive,M,76,0,1,NA,NA,NA,2,1,0,II,mixed,body,0,0,0,0,0,0,0,0,,2,NA,19.07,31.13,0
+43,GSM1523957,positive,F,37,NA,3,NA,NA,1,2,1,0,II,intestinal,body,0,0,0,0,0,0,0,0,,0,NA,70.03,100.63,1
+44,GSM1523958,positive,M,56,1,3,NA,NA,NA,2,1,0,II,diffuse,body,0,0,0,0,0,0,0,0,,0,NA,97.2,100.23,1
+45,GSM1523959,positive,M,54,0,2,1,NA,1,2,3,0,IV,intestinal,antrum,1,0,0,0,1,0,0,0,,3,NA,10.2,17.43,0
+52,GSM1523960,positive,F,70,0,2,NA,NA,1,2,1,0,II,intestinal,body,0,0,0,0,0,0,0,0,,0,NA,61.4,99,0
+53,GSM1523961,partial loss,M,63,0,2,1,NA,1,2,1,0,II,intestinal,antrum,0,0,0,0,0,0,0,0,,2,0,6.17,9.5,2
+54,GSM1523962,positive,M,48,0,4,1,NA,NA,3,2,0,III,diffuse,body,1,0,1,1,0,0,0,0,,3,1,14.47,20.13,3
+55,GSM1523963,positive,F,69,0,3,NA,NA,1,2,1,0,II,intestinal,antrum,1,0,0,0,0,0,0,1,remnant stomach,3,NA,40.83,45.77,0
+56,GSM1523964,negative,M,61,0,2,NA,NA,NA,2,1,0,II,intestinal,body,0,0,0,0,0,0,0,0,,0,NA,98.53,98.53,2
+51,GSM1523965,positive,M,52,0,4,1,NA,1,3,3,0,IV,diffuse,antrum,1,0,1,0,1,0,0,0,,3,1,8.9,11.47,3
+58,GSM1523966,positive,M,35,0,3,NA,NA,1,2,3,0,IV,diffuse,body,0,0,0,0,0,0,0,0,unknown,3,NA,0.77,51.8,0
+59,GSM1523967,positive,M,52,0,8,NA,NA,1,2,2,0,III,diffuse,cardia,0,0,0,0,0,0,0,0,,0,NA,93.47,98.47,1
+60,GSM1523968,positive,F,44,0,4,1,NA,0,3,0,1,IV,diffuse,whole,1,0,1,1,0,0,0,1,"jejunum, appendix, transverse colon, splenic flexure colon",3,0,35.87,45.17,3
+61,GSM1523969,positive,M,69,0,3,NA,NA,1,3,1,0,III,diffuse,antrum,1,0,0,0,0,0,0,1,"abdominal wall and greater omentum in front of the mid-transverse colon, R/O Transverse colon invasion",3,0,12.13,17.9,0
+62,GSM1523970,negative,F,77,0,3,NA,NA,1,2,1,0,II,mixed,antrum,1,0,0,0,0,0,0,0,Lung,3,NA,7.4,15.7,0
+63,GSM1523971,positive,F,45,0,4,NA,NA,0,3,1,0,III,diffuse,cardia,1,0,1,1,0,0,0,1,Jejunojeunostomy site,3,NA,11.67,13.3,3
+64,GSM1523972,positive,M,70,0,3,0,NA,1,2,1,1,IV,mixed,antrum,1,0,0,0,0,0,0,0,,3,NA,6.03,6.5,0
+57,GSM1523973,positive,M,62,0,3,0,NA,0,2,2,0,III,diffuse,antrum,0,0,0,0,0,0,0,0,,0,NA,23.77,87.27,0
+66,GSM1523974,positive,M,61,0,2,0,NA,1,2,1,0,II,intestinal,body,0,0,0,0,0,0,0,0,,0,0,91.93,98.23,0
+67,GSM1523975,positive,M,67,1,3,NA,NA,NA,3,1,0,III,diffuse,antrum,1,0,1,1,0,0,0,0,,3,NA,1.9,7.2,3
+68,GSM1523976,positive,M,69,NA,3,NA,NA,1,2,2,0,III,mixed,antrum,1,0,0,0,1,0,0,0,,4,NA,24.53,56,0
+69,GSM1523977,positive,M,63,0,9,0,NA,0,2,1,0,II,diffuse,antrum,0,0,0,0,0,0,0,0,,2,NA,0.7,1,0
+65,GSM1523978,positive,F,67,0,3,0,NA,1,2,3,0,IV,diffuse,cardia,1,0,0,0,0,0,1,0,,3,NA,13.03,16.23,1
+1,GSM1523979,Negative,M,78,0,2,NA,NA,NA,3,2,0,III,intestinal,antrum,1,1,0,0,1,0,0,0,,3,0,3.37,9.43,2
+71,GSM1523980,positive,F,77,0,3,NA,NA,NA,3,2,0,III,diffuse,cardia,0,0,0,0,0,0,0,0,,4,NA,4.33,6.7,1
+72,GSM1523981,positive,M,51,0,4,NA,NA,NA,2,1,0,II,diffuse,antrum,0,0,0,0,0,0,0,0,,0,0,77.07,97.2,3
+73,GSM1523982,positive,M,56,0,4,1,NA,1,3,2,1,IV,diffuse,antrum,2,0,0,0,0,0,0,0,,4,1,4.63,8.7,3
+74,GSM1523983,negative,M,61,0,3,NA,NA,1,2,2,0,III,diffuse,cardia,1,0,0,0,1,0,0,0,,3,NA,5.67,10.1,2
+75,GSM1523984,positive,M,57,NA,3,NA,NA,1,2,1,0,II,diffuse,antrum,2,0,0,0,0,0,0,0,,0,1,21.8,96.97,3
+77,GSM1523985,positive,M,70,1,2,NA,NA,NA,2,2,0,III,intestinal,cardia,0,0,0,0,0,0,0,0,,4,NA,0.73,77.53,1
+70,GSM1523986,positive,M,72,0,3,0,NA,1,3,2,0,III,diffuse,antrum,1,0,0,1,0,0,0,0,,1,NA,73.73,86.8,1
+79,GSM1523987,positive,F,30,0,3,NA,NA,NA,3,2,0,III,diffuse,body,1,0,1,1,0,0,0,1,ovary,3,NA,13.1,18.27,0
+80,GSM1523988,positive,M,65,0,3,NA,NA,NA,2,2,0,III,diffuse,antrum,2,0,0,0,0,0,0,0,,4,NA,0.77,14.83,3
+78,GSM1523989,positive,M,46,0,3,0,NA,1,3,3,0,IV,intestinal,body,0,0,0,0,0,0,0,0,,0,NA,64.97,86.7,0
+82,GSM1523990,positive,M,40,0,3,0,NA,1,2,2,0,III,diffuse,body,1,1,0,0,0,0,0,1,pancreas tail,3,NA,5.73,14.17,3
+83,GSM1523991,positive,F,63,NA,2,NA,NA,NA,2,1,0,II,intestinal,antrum,2,0,0,0,0,0,0,0,,0,NA,12.1,95.2,0
+84,GSM1523992,negative,F,70,0,3,NA,NA,1,3,3,0,IV,diffuse,antrum,1,1,0,1,1,0,0,0,,3,NA,15.63,20.13,1
+85,GSM1523993,positive,M,69,0,2,0,NA,1,2,2,0,III,intestinal,antrum,0,0,0,0,0,0,0,0,,4,NA,35.47,68.13,0
+81,GSM1523994,positive,M,63,0,2,0,NA,0,2,2,0,III,intestinal,antrum,0,0,0,0,0,0,0,0,,0,NA,35.4,86.37,0
+88,GSM1523995,positive,M,82,0,3,NA,NA,1,2,2,0,III,mixed,cardia,0,0,0,0,0,0,0,0,,2,NA,6.07,6.37,0
+89,GSM1523996,Negative,F,75,0,4,NA,NA,NA,2,1,0,II,diffuse,antrum,1,0,1,1,0,0,0,1,"transverse colon, ascending colon, cecum, terminal ileum",3,NA,30,35.2,1
+90,GSM1523997,positive,F,72,0,2,0,NA,1,4,3,0,IV,diffuse,antrum,1,0,0,0,1,0,0,1,Jejunal stump,3,1,18.17,25.2,0
+86,GSM1523998,positive,M,59,0,2,0,NA,1,2,2,0,III,intestinal,antrum,1,1,1,1,0,0,1,0,spleen,3,NA,9.37,21.23,0
+92,GSM1523999,positive,M,66,0,1,NA,NA,1,2,1,0,II,intestinal,body,0,0,0,0,0,0,0,0,,0,1,57.63,93.87,0
+93,GSM1524000,Negative,F,69,0,4,0,NA,1,3,2,0,III,diffuse,antrum,2,0,0,0,0,0,0,0,,0,NA,2.1,93.87,2
+95,GSM1524001,positive,M,58,0,2,NA,NA,0,2,1,0,II,intestinal,body,0,0,0,0,0,0,0,0,,0,0,88.2,93.63,0
+91,GSM1524002,Negative,M,64,0,"2,3",NA,NA,1,3,2,0,III,mixed,cardia,0,0,0,0,0,0,0,0,,0,NA,5.07,86.13,2
+96,GSM1524003,positive,F,60,0,2,NA,NA,1,2,2,0,III,intestinal,antrum,0,0,0,0,0,0,0,0,,0,1,82.4,85.93,0
+100,GSM1524004,positive,M,58,1,3,0,NA,1,4,3,1,IV,diffuse,body,1,0,1,1,1,0,1,1,left kidney,3,NA,0.7,5.93,0
+107,GSM1524005,positive,M,71,0,2,NA,NA,NA,2,3,1,IV,intestinal,antrum,1,0,0,0,1,0,0,0,,3,NA,2.1,9.47,0
+108,GSM1524006,positive,F,41,0,4,NA,NA,NA,2,2,0,III,diffuse,body,1,0,1,1,0,0,0,0,,3,1,12.13,26.27,3
+109,GSM1524007,positive,F,48,0,4,NA,NA,NA,3,1,1,IV,diffuse,cardia,1,0,0,0,1,0,0,0,,3,NA,5.57,10.37,0
+106,GSM1524008,positive,M,39,0,3,1,NA,1,3,3,0,IV,diffuse,antrum,1,0,1,1,0,0,0,0,,3,1,6.7,10.83,2
+111,GSM1524009,positive,F,60,0,3,1,NA,0,2,2,0,III,diffuse,cardia,1,0,1,0,1,0,0,1,Rt. Ovary,3,1,59.17,65,0
+110,GSM1524010,positive,F,73,0,3,0,NA,1,2,2,0,III,diffuse,body,1,0,1,1,0,0,0,1,"ureters, GB neck, cystic duct",3,NA,18.53,19.7,3
+114,GSM1524011,positive,F,63,0,2,0,NA,1,2,1,0,II,intestinal,antrum,0,0,0,0,0,0,0,0,,0,1,58.63,90.2,0
+113,GSM1524012,positive,M,64,0,3,1,NA,1,3,1,0,III,diffuse,antrum,0,0,0,0,0,0,0,0,,0,NA,83.03,85.23,0
+116,GSM1524013,positive,M,63,NA,2,0,NA,1,2,1,0,II,intestinal,body,0,0,0,0,0,0,0,0,,0,NA,70.2,89.9,0
+117,GSM1524014,positive,F,66,0,3,1,NA,1,4,3,1,IV,intestinal,antrum,1,0,1,1,1,0,0,1,left ureter,3,0,7.67,11.33,0
+118,GSM1524015,positive,M,61,0,"2,6(20%)",0,NA,0,4,1,0,IV,intestinal,antrum,1,1,0,1,0,0,0,0,,4,NA,6.07,24.87,0
+115,GSM1524016,positive,M,24,0,3,0,NA,1,3,3,1,IV,diffuse,body,1,0,1,1,1,0,1,1,Lt adrenal gland,3,NA,14,27.8,1
+119,GSM1524017,positive,M,67,0,2,0,NA,0,2,2,0,III,intestinal,antrum,0,0,0,0,0,0,0,0,,0,NA,10.7,85.03,0
+129,GSM1524018,positive,M,64,0,2,1,0,1,3,1,0,III,mixed,antrum,0,0,0,0,0,0,0,0,,0,0,73.2,84.77,1
+137,GSM1524019,positive,M,70,0,4,0,0,1,3,3,0,IV,diffuse,body,1,0,1,1,0,0,0,1,Periureteral,3,NA,6.17,8.33,0
+141,GSM1524020,positive,M,51,0,2,0,1,1,2,2,0,III,intestinal,body,0,0,0,0,0,0,0,0,,0,1,61.17,84.3,1
+143,GSM1524021,positive,F,56,0,3,1,0,0,3,1,0,III,diffuse,body,0,0,0,0,0,0,0,0,,2,NA,11.9,12.93,1
+152,GSM1524022,positive,F,65,0,4,1,1,1,3,3,0,IV,diffuse,body,1,0,0,0,1,0,0,1,right distal ureter,3,NA,3.47,8.03,0
+155,GSM1524023,positive,F,77,0,2,0,0,1,4,2,0,IV,intestinal,antrum,0,0,0,0,0,0,0,0,,0,NA,81.43,83.83,0
+112,GSM1524024,positive,M,61,NA,4,1,NA,1,3,2,0,III,diffuse,antrum,1,0,0,1,1,0,0,1,"duodenal wall, pancreas head",3,NA,49.47,89.43,1
+165,GSM1524025,Negative,M,71,0,3,0,0,1,2,2,0,III,diffuse,antrum,0,0,0,0,0,0,0,0,,4,NA,14.1,81.83,2
+171,GSM1524026,positive,F,52,0,4,1,0,1,3,1,0,III,diffuse,body,1,0,0,0,0,0,0,1,"Pancreatic body, GB neck, cystic duct, CBD",1,0,81.37,83.6,3
+196,GSM1524027,positive,M,61,0,4,1,0,1,3,2,0,III,diffuse,body,0,0,0,0,0,0,0,0,,2,NA,57.77,59.7,0
+206,GSM1524028,positive,M,72,0,3,0,0,0,2,2,0,III,intestinal,body,1,0,0,0,0,0,0,1,Lung,3,NA,26.57,47.7,1
+217,GSM1524029,Negative,F,50,0,4,0,0,1,4,3,0,IV,diffuse,body,1,0,1,1,0,0,0,0,,3,1,21.7,31.1,3
+161,GSM1524030,positive,F,46,0,4,NA,NA,NA,3,1,0,III,diffuse,cardia,1,0,1,0,0,0,0,0,,3,1,27.53,31.33,3
+219,GSM1524031,positive,M,55,0,2,1,NA,1,2,3,0,IV,intestinal,antrum,1,1,1,0,1,0,0,1,proximal D-colon,1,0,14.13,82,1
+224,GSM1524032,negative,F,70,0,2,0,NA,0,4,1,0,IV,intestinal,antrum,1,0,0,0,1,0,0,1,"celiac axis, subhepatic space, ascending colon",3,0,12.2,77.2,2
+231,GSM1524033,positive,F,67,1,3,0,NA,0,2,2,1,IV,intestinal,body,0,0,0,0,0,0,0,0,,0,NA,80.27,80.83,1
+239,GSM1524034,positive,M,65,0,1,1,0,1,3,1,0,III,intestinal,body,1,0,0,0,0,0,0,1,urinary bladder and rectum,3,NA,18.17,44.07,1
+244,GSM1524035,positive,F,64,0,3,0,0,1,3,3,0,IV,mixed,body,0,0,0,0,0,0,0,0,,0,0,60.43,80.3,3
+250,GSM1524036,positive,M,70,0,2,0,0,1,3,1,0,III,intestinal,body,0,0,0,0,0,0,0,0,,0,0,71,79.93,0
+258,GSM1524037,positive,M,72,0,2,1,0,1,3,2,0,III,intestinal,antrum,1,1,0,0,1,0,0,0,,3,0,18,23.43,0
+262,GSM1524038,positive,M,74,0,4,1,0,1,2,3,1,IV,diffuse,whole,0,1,0,0,0,0,0,0,,3,NA,8.43,8.63,1
+264,GSM1524039,positive,M,72,0,4,0,0,1,3,2,0,III,diffuse,antrum,1,0,0,0,0,0,0,1,Small intestine,3,NA,11.8,12.07,3
+272,GSM1524040,positive,F,55,0,4,0,0,1,3,3,0,IV,diffuse,antrum,1,0,0,1,0,0,0,1,T-colon,3,NA,18.3,36.17,0
+274,GSM1524041,positive; MSH2 mutation (+),M,56,0,2,0,0,1,2,3,1,IV,intestinal,body,0,0,0,0,0,0,0,0,,0,NA,68.43,77.33,2
+275,GSM1524042,positive,F,62,0,3,0,1,1,2,2,0,III,diffuse,cardia,1,1,1,1,0,0,0,1,Rectal,3,NA,0.53,10.83,0
+276,GSM1524043,positive,M,60,1,3,0,0,1,2,2,1,IV,diffuse,body,1,0,1,0,0,0,0,0,,3,NA,4.1,16.83,1
+277,GSM1524044,positive,M,80,NA,2,0,0,0,2,1,1,IV,intestinal,antrum,1,1,0,0,0,0,0,0,,3,0,3.07,22.87,0
+278,GSM1524045,positive,M,33,0,2,NA,NA,1,2,1,0,II,intestinal,body,0,0,0,0,0,0,0,0,,0,NA,64.6,89.13,1
+279,GSM1524046,positive,F,59,0,3,NA,NA,1,2,1,0,II,diffuse,antrum,0,0,0,0,0,0,0,0,,0,0,87.53,88.03,0
+280,GSM1524047,positive,M,74,0,3,0,NA,1,2,1,0,II,diffuse,antrum,0,0,0,0,0,0,0,0,,0,0,33.97,69.87,1
+281,GSM1524048,negative,M,67,0,2,0,NA,1,2,1,0,II,intestinal,antrum,2,0,0,0,0,0,0,0,unknown,3,0,36.3,46.8,2
+282,GSM1524049,positive,M,62,0,2,0,NA,0,2,1,0,II,intestinal,body,2,0,0,0,0,0,0,0,,0,NA,0.5,87.8,1
+283,GSM1524050,positive,M,66,0,1,1,NA,1,2,1,0,II,intestinal,antrum,1,0,0,1,0,0,0,1,sigmoid colon,3,0,21.73,57.13,1
+284,GSM1524051,positive,F,51,0,3,0,NA,0,2,1,0,II,diffuse,antrum,0,0,0,0,0,0,0,0,,0,NA,85.03,87.27,0
+286,GSM1524052,positive,M,74,0,3,1,NA,1,2,1,0,II,diffuse,antrum,2,0,0,0,0,0,0,0,,3,NA,8.77,13.17,0
+287,GSM1524053,negative,M,61,0,2,1,NA,1,2,1,0,II,intestinal,body,0,0,0,0,0,0,0,0,,0,0,79.83,86.93,1
+288,GSM1524054,negative,M,72,0,2,0,NA,0,2,1,0,II,intestinal,antrum,0,0,0,0,0,0,0,0,,0,0,12.57,86.57,2
+289,GSM1524055,positive,M,54,0,2,0,NA,0,2,1,0,II,intestinal,antrum,1,1,0,0,0,0,0,0,,3,1,12.13,37.93,1
+291,GSM1524056,positive,M,71,0,11 Adenocarcinoma with neuroendocrine differentiation,0,NA,1,2,1,0,II,intestinal,body,1,1,0,0,0,0,0,0,,3,0,7.5,14.17,0
+294,GSM1524057,positive,M,80,0,3,0,NA,1,4,0,0,IV,intestinal,antrum,1,0,1,0,1,0,0,1,pancreas uncinate process and head with invasion to CBD and GB,3,1,14.97,15.93,3
+295,GSM1524058,positive,F,56,0,3,NA,NA,0,2,1,0,II,intestinal,cardia,0,0,0,0,0,0,0,0,,0,NA,85.47,85.47,3
+296,GSM1524059,positive,M,58,0,3,1,NA,0,3,0,0,II,diffuse,antrum,0,0,0,0,0,0,0,0,,0,1,79.23,85.2,3
+299,GSM1524060,negative,M,56,0,6,0,1,1,2,1,0,II,intestinal,body,0,0,0,0,0,0,0,0,,0,0,70.3,84.83,1
+300,GSM1524061,positive,M,77,0,1,1,0,1,2,1,0,II,intestinal,antrum,0,0,0,0,0,0,0,0,,0,1,84.33,84.6,2
+293,GSM1524062,positive,F,40,0,4,NA,NA,1,3,1,0,III,diffuse,cardia,1,0,1,0,0,0,0,0,,3,NA,43.43,70.2,3
+285,GSM1524068,negative,F,71,0,2,0,NA,0,2,1,0,II,intestinal,body,0,0,0,0,0,0,0,0,,0,NA,91.23,92.87,2
+290,GSM1524069,Negative,M,63,0,2,0,NA,1,2,1,0,II,intestinal,antrum,2,0,0,0,0,0,0,0,,4,0,0.3,85.6,2
+292,GSM1524070,positive,M,58,0,1,0,NA,0,2,1,0,II,intestinal,body,0,0,0,0,0,0,0,0,,0,0,86.2,91.63,1
+297,GSM1524071,positive,M,60,0,2,0,NA,NA,4,1,0,III,intestinal,antrum,0,0,0,0,0,0,0,0,,0,0,85.83,90.77,1
+298,GSM1524072,positive,F,43,0,3,1,NA,0,3,2,1,IV,diffuse,antrum,2,0,0,0,0,0,0,0,,4,NA,0.73,42.93,0
